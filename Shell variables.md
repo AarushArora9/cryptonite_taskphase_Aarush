@@ -1,18 +1,18 @@
 # Hello
 ## Challenge 1: Printing Variables
-In this challenge I had to print a flag stored in a variable to complete the challenge
+In this challenge, I had to print a flag stored in a variable to complete the challenge
 ### Method
-I used the command ```echo``` to print the variable by prepending the variable name with operator ```$``` which gave me the command as ```echo $FLAG``` and provdided the required flaf which was
+I used the command ```echo``` to print the variable by prepending the variable name with the operator ```$``` which gave me the command as ```echo $FLAG``` and provided the required flag which was
 ```pwn.college{M3fSgky33FDvIff5XUdLakCWSDT.ddTN1QDLxkDN1czW}```
-## Challegne 2: Setiing variables
-In this challenge I had to set the variable with a certain specified value to get the flag
+## Challenge 2: Setting variables
+In this challenge, I had to set the variable with a certain specified value to get the flag
 ### Method
-I can directly name a variable in command line and specify the given value so I just used the command ```PWN=COLLEGE``` to get the reuired flag which was
+I can directly name a variable in the command line and specify the given value so I just used the command ```PWN=COLLEGE``` to get the reuired flag which was
 ```pwn.college{UcRQDnTLu2DGCzTOife_RmG65sN.dlTN1QDLxkDN1czW}```
 ## Challenge 3: Multi-word variables
-In this challenge I had to assign the variable with a specified multi word value to get the require flag
+In this challenge, I had to assign the variable with a specified multi-word value to get the required flag
 ### Method
-In this challenge I had to use quotes to assign the value to the variable since the method in the previous challenge only works for single word so I had to use the command ```PWN="COLLEGE YEAH"```
+In this challenge, I had to use quotes to assign the value to the variable since the method in the previous challenge only works for single word so I had to use the command ```PWN="COLLEGE YEAH"```
 to get the required flag which was ```pwn.college{0wNp3x_ibDf-YIZDzIAMV-VPpGQ.dBjN1QDLxkDN1czW}```
 ## Challenge 4: Exporting variables
 In this challenge I had to export a variable with a specified value and use another variable to store another specified value
